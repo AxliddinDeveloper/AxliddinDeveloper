@@ -1,6 +1,5 @@
 ### Hi there👋 I'm Axliddin
 
-https://streak-stats.demolab.com/?user=Axliddinjon&theme=dark
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Axliddinjon&theme=dark)](https://git.io/streak-stats)
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Axliddinjon&show_icons=true&theme=gotham" alt="Axliddinjon" />
 <!--
