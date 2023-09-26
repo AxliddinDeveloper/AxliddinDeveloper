@@ -1,6 +1,6 @@
 ### Hi there👋 I'm Axliddin.
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Axliddinjon&theme=dark)](https://git.io/streak-stats)
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Axliddinjon&show_icons=true&theme=gotham" alt="Axliddinjon" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AxliddinDeveloper&theme=dark)](https://git.io/streak-stats)
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=AxliddinDeveloper&show_icons=true&theme=gotham" alt="AxliddinDeveloper" />
 <!--
 **Axliddinjon/Axliddinjon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
