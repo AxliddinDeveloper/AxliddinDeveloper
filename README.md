@@ -1,4 +1,6 @@
 ### Hi there👋 I'm Axliddin.
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=1200&height=150&lines=I'm+CSharp+developer;I'm+.NET+developer;)](#)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AxliddinDeveloper&theme=dark)](https://git.io/streak-stats)
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=AxliddinDeveloper&show_icons=true&theme=gotham" alt="AxliddinDeveloper" />
   
